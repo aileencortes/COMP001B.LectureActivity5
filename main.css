@@ -1,0 +1,19 @@
+
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 500;
+}
+
+p{
+    text-indent: 4em;
+    margin-bottom: 1em;
+    line-height: 145%;
+    text-align: left;
+}
+p:first-of-type{
+    text-indent: 0;
+}
