@@ -1,6 +1,7 @@
 
 h1{
     font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
 }
 
 h2{
@@ -16,4 +17,25 @@ p{
 }
 p:first-of-type{
     text-indent: 0;
+}
+
+#first-paragraph{
+    border: solid rgb(23, 23, 22) 3px;
+    padding: 2%;
+    margin-bottom: 1em;
+    background-color:rgb(245, 231, 213)
+}
+
+#second-paragraph{
+    border: solid rgb(116, 43, 6) 3px;
+    padding: 2%;
+    margin-bottom: 1em;
+    background-color:rgb(245, 231, 213)
+}
+
+#third-paragraph{
+    border: solid rgb(206, 89, 31) 3px;
+    padding: 2%;
+    margin-bottom: 1em;
+    background-color:rgb(245, 231, 213)
 }
